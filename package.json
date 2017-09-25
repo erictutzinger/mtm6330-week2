@@ -1,0 +1,23 @@
+{
+  "name": "mtm6330-week2",
+  "version": "1.0.0",
+  "description": "My first GitHub repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erictutzinger/mtm6330-week2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erictutzinger/mtm6330-week2/issues"
+  },
+  "homepage": "https://github.com/erictutzinger/mtm6330-week2#readme",
+  "dependencies": {
+    "save-dev": "^2.0.0",
+    "webpack": "^3.6.0"
+  }
+}
